@@ -6,6 +6,7 @@
 	"engines": {
 		"vscode": "^1.64.0"
 	},
+	"publisher": "ikasashi014",
 	"icon": "images/pray4ukraine-icon.png",
 	"keywords": [
 		"status bar"
