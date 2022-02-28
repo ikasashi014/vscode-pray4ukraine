@@ -2,11 +2,14 @@
   "name": "pray4ukraine",
 	"displayName": "Pray for Ukraine",
 	"description": "Display a message in the status bar to express your support for the people in Ukraine.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
 	"icon": "images/pray4ukraine-icon.png",
+	"keywords": [
+		"status bar"
+	],
 	"categories": [
 		"Other"
 	],
@@ -31,6 +34,7 @@
 		"type": "git",
 		"url": "https://github.com/ikasashi014/vscode-pray4ukraine.git"
 	},
+	"author": "ikasahi014 <ikasashi014@gmail> (https://github.com/ikasashi014/)",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
